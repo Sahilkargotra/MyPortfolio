@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Beat Buddy",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This friendly website is designed to offer a seamless experience for exploring diverse music genres from around the world",
+    "skills": ["React", "JavaScript","HTML"],
+    "demo": "https://beat-buddy-music.netlify.app",
+    "source": "https://github.com/Sahilkargotra/music_app"
   },
   {
-    "title": "Project B",
+    "title": "Login-Signup Authentication",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "A user-friendly restaurant website with Login & Signup functionality for customers",
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sahilkargotra/Restaurant-Website-Authentication"
   },
   {
-    "title": "Project C",
+    "title": "Pizza Shopping App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A simple web application that allows users to select pizza , choose quantity, and place order using Razorpay payment gateway..",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://sahilkargotra.github.io/my-projects/",
+    "source": "https://github.com/Sahilkargotra/my-projects"
   }
 ]
